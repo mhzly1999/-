@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "固定内存池", "固定内存池\固定内存池.vcxproj", "{69138E5B-F0BB-4B31-94C7-B97B445C330B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Debug|x64.ActiveCfg = Debug|x64
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Debug|x64.Build.0 = Debug|x64
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Debug|x86.ActiveCfg = Debug|Win32
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Debug|x86.Build.0 = Debug|Win32
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Release|x64.ActiveCfg = Release|x64
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Release|x64.Build.0 = Release|x64
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Release|x86.ActiveCfg = Release|Win32
+		{69138E5B-F0BB-4B31-94C7-B97B445C330B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D0D278-D8DC-4F08-AD4F-3DB13EED8030}
+	EndGlobalSection
+EndGlobal
